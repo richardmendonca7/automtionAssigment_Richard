@@ -1,0 +1,6 @@
+tests\CreateUsersTests.class
+pages\SeleniumBaseClass.class
+pages\AllUser_Page.class
+pages\ApiCalls.class
+pages\NewUser_Page.class
+resources\Utilites.class
